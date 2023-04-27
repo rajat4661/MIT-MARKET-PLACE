@@ -8,10 +8,9 @@ const Footer = () => {
         <Row>
           <Col md={6} xs={12}>
             <div className="footer_logo_container">
-              <h4 className="footer_logo">LOGO HERE</h4>
+              <h4 className="footer_logo">MIT MARKETPLACE</h4>
               <p className="footer_description">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry.
+              MIT Marketplace is a platform designed to connect students within the college community, allowing them to buy and sell items within their campus radius. 
               </p>
             </div>
           </Col>
@@ -42,16 +41,13 @@ const Footer = () => {
             <h5 className="about_us_heading">About Us</h5>
             <ul className="navlinks">
               <li className="nav_li">
-                <p className="navlink">+880-2-9898796</p>
+                <p className="navlink">+91 8668489532</p>
               </li>
               <li className="nav_li">
-                <p className="navlink">
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
-                </p>
+                
               </li>
               <li className="nav_li">
-                <p className="navlink">company@gmail.com</p>
+                <p className="navlink">mit_marketplace@gmail.com</p>
               </li>
             </ul>
           </Col>

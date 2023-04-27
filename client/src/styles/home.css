@@ -1,3 +1,5 @@
+
+
 .categories_navlinks {
   list-style-type: none;
   display: flex;
@@ -10,4 +12,11 @@
 
 .AdCard {
   margin: 3rem 0rem;
+}
+
+
+#title_logo_name{
+  font-size: 25px;
+  font-weight: 900;
+  font-family: 'Roboto Mono', monospace;
 }

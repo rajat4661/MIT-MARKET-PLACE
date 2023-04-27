@@ -4,6 +4,8 @@ import { ThreeDots } from 'react-loader-spinner'
 import { useDispatch, useSelector } from 'react-redux'
 import { getAds, reset } from '../redux/ads/adsSlice'
 import { InnerCard } from './InnerCard'
+import '../styles/cards.css'
+
 
 const Cards = () => {
   const { ads, isLoading, filteredAds } = useSelector(
